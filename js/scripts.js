@@ -7,21 +7,21 @@ $(document).ready(function() {
     var celebrity = q1+q2+q3;
 
     if (celebrity < 4 ) {
-      $(".ponyo").show();
-      $(".sosuke").hide();
-      $(".lisa").hide();
+      $("#ponyo").show();
+      $("#sosuke").hide();
+      $("#lisa").hide();
      
     }
-    else if (celebrity >= 3 && score <= 7) {
-      $(".sosuke").show();
-      $(".ponyo").hide();
-      $(".lisa").hide();
+    else if (celebrity >= 3 && celebrity <= 7) {
+      $("#sosuke").show();
+      $("#ponyo").hide();
+      $("#lisa").hide();
       
     }
-    else if (celebrity >= 7 && score <= 10) {
-      $(".lisa").show();
-      $(".ponyo").hide();
-      $(".sosuke").hide();
+    else if (celebrity >= 7 && celebrity <= 10) {
+      $("#lisa").show();
+      $("#ponyo").hide();
+      $("#sosuke").hide();
       
    
     }

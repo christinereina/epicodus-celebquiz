@@ -10,7 +10,7 @@ body {
 .well {
   background-color: aliceblue;
   opacity: 0.9;
-  width: 600px;
+  width: 500px;
   height: auto;
   padding: 10px;
   text-align: center;
@@ -23,4 +23,8 @@ h1 {
 label {
   font-size: 20px;
   font-family: 'Coming Soon', cursive;
+}
+
+#ponyo, #sosuke, #lisa {
+  display: none;
 }
