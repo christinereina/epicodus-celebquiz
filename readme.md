@@ -1,5 +1,18 @@
 # [Which Ponyo Character are YOU?](https://christinereina.github.io/epicodus-ponyoquiz/)
 
+<pre>
+          |
+        \ _ /
+      -= (_) =-
+        /   \         _\/_
+          |           //o\  _\/_
+   _____ _ __ __ ____ _ | __/o\\ _
+ =-=-_-__=_-= _=_=-=_,-'|"'""-|-,_
+  =- _=-=- -_=-=_,-"          |
+jgs =- =- -=.--"
+</pre>                      
+
+
 #### Epicodus Week Two | Introduction to Programming JavaScript and jQuery Practice: More Branching Practice, 03.26.2020
 
 #### By _**Christine Augustine & Mailie Cook**_

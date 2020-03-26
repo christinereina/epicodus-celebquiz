@@ -7,23 +7,28 @@ $(document).ready(function() {
     var celebrity = q1+q2+q3;
 
     if (celebrity < 4 ) {
-      $("#ponyo").show();
+      $("#ponyo").toggle();
       $("#sosuke").hide();
       $("#lisa").hide();
+      $("#quiz").hide();
+      
      
     }
     else if (celebrity >= 3 && celebrity <= 7) {
-      $("#sosuke").show();
+      $("#sosuke").toggle();
       $("#ponyo").hide();
       $("#lisa").hide();
+      $("#quiz").hide();
       
     }
     else if (celebrity >= 7 && celebrity <= 10) {
-      $("#lisa").show();
+      $("#lisa").toggle();
       $("#ponyo").hide();
       $("#sosuke").hide();
-      
-   
+      $("#quiz").hide();    
     }
   });
+  // $('.btn').click(function(){
+  //   location.reload();
+  // })
 });
