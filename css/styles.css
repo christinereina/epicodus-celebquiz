@@ -1,4 +1,5 @@
 body {
+  padding: 30px;
   background-image: url(https://littledailyprophet.files.wordpress.com/2009/04/large_347334.jpg);
   background-size: 100%;
   display: flex;
@@ -17,5 +18,9 @@ body {
 }
 
 h1 {
+  font-family: 'Coming Soon', cursive;
+}
+label {
+  font-size: 20px;
   font-family: 'Coming Soon', cursive;
 }
