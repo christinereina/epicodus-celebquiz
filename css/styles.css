@@ -1,0 +1,21 @@
+body {
+  background-image: url(https://littledailyprophet.files.wordpress.com/2009/04/large_347334.jpg);
+  background-size: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.well {
+  background-color: aliceblue;
+  opacity: 0.9;
+  width: 600px;
+  height: auto;
+  padding: 10px;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-family: 'Coming Soon', cursive;
+}
