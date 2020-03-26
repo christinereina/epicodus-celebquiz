@@ -40,8 +40,6 @@ n/a
 
 ## Support and contact details
 
-(づ｡◕‿‿◕｡)づ (づ｡◕‿‿◕｡)づ (づ｡◕‿‿◕｡)づ
-
 Feel free to say hello! Additionally, if you have any questions, suggestions and/or feedback, please don't hesitate to contact me or Mailie:
 
 Mailie Cook's GitHub:
