@@ -1,7 +1,7 @@
 body {
   padding: 30px;
   background-image: url(https://littledailyprophet.files.wordpress.com/2009/04/large_347334.jpg);
-  background-size: 100%;
+  background-size: cover;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -19,6 +19,14 @@ body {
 
 h1 {
   font-family: 'Coming Soon', cursive;
+  font-size: 60px;
+  color: aliceblue;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
 }
 label {
   font-size: 20px;
